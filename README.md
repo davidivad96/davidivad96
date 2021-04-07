@@ -55,19 +55,19 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 ## Let's connect! 🍻
 
 <a href="https://www.linkedin.com/in/david-fern%C3%A1ndez-ortiz-139b7312a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/linkedin-logo.png?raw=true" />
 </a>
 
 <a href="https://stackoverflow.com/users/12181519/david-fern%c3%a1ndez-ortiz">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/stackoverflow-logo.png?raw=true" />
 </a>
 
 <a href="https://www.instagram.com/davidivad96/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/instagram-logo.png?raw=true" />
 </a>
 
 <a href="mailto:davidivad96@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/gmail-logo.png?raw=true" />
 </a>
 
 <!---
