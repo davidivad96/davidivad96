@@ -47,28 +47,33 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 <img src="https://badges.aleen42.com/src/gitlab.svg" /> <img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&labelColor=grey" />
 
+⛓ Blockchain:
+
+<img src="https://img.shields.io/badge/-Bitcoin-F7931A?logo=bitcoin&labelColor=grey" /> <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&labelColor=grey" />
+
 🛠️ Other tools:
 
 <img src="https://badges.aleen42.com/src/visual_studio_code.svg" /> <img src="https://badges.aleen42.com/src/github.svg" />
-<img src="https://badges.aleen42.com/src/gitlab.svg" /> <img src="https://badges.aleen42.com/src/eslint.svg" />
+<img src="https://badges.aleen42.com/src/gitlab.svg" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&labelColor=grey" />
+<img src="https://badges.aleen42.com/src/eslint.svg" /> <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&labelColor=grey" />
 
 ## Let's connect! 🍻
 
-<a href="https://www.linkedin.com/in/david-fern%C3%A1ndez-ortiz-139b7312a/">
-  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/linkedin-logo.png?raw=true" />
-</a>
-
-<a href="https://stackoverflow.com/users/12181519/david-fern%c3%a1ndez-ortiz">
-  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/stackoverflow-logo.png?raw=true" />
-</a>
-
-<a href="https://www.instagram.com/davidivad96/">
-  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/instagram-logo.png?raw=true" />
-</a>
-
-<a href="mailto:davidivad96@gmail.com">
-  <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/gmail-logo.png?raw=true" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-fern%C3%A1ndez-ortiz-139b7312a/">
+    <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/linkedin-logo.png?raw=true" />
+  </a>
+  <a href="https://stackoverflow.com/users/12181519/david-fern%c3%a1ndez-ortiz">
+    <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/stackoverflow-logo.png?raw=true" />
+  </a>
+  <a href="https://www.instagram.com/davidivad96/">
+    <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/instagram-logo.png?raw=true" />
+  </a>
+  <a href="mailto:davidivad96@gmail.com">
+    <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/gmail-logo.png?raw=true" />
+  </a>
+</p>
 
 <!---
 - 👀 I’m interested in ...
