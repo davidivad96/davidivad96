@@ -55,7 +55,8 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 <img src="https://badges.aleen42.com/src/visual_studio_code.svg" /> <img src="https://badges.aleen42.com/src/github.svg" />
 <img src="https://badges.aleen42.com/src/gitlab.svg" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&labelColor=grey" />
-<img src="https://badges.aleen42.com/src/eslint.svg" /> <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&labelColor=grey" />
+<img src="https://badges.aleen42.com/src/eslint.svg" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&labelColor=grey" />
 
 ## Let's connect! 🍻
