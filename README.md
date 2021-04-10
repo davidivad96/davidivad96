@@ -16,36 +16,29 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 🗣️ Languages:
 
-<img src="https://badges.aleen42.com/src/javascript.svg" /> <img src="https://badges.aleen42.com/src/typescript.svg" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=grey" />
-<img src="https://badges.aleen42.com/src/golang.svg" />
-<img src="https://img.shields.io/badge/-Rust-000000?logo=rust&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&labelColor=grey" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=grey" /> <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Rust-000000?logo=rust&labelColor=grey" /> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&labelColor=grey" />
 
 🌐 Frontend:
 
-<img src="https://badges.aleen42.com/src/react.svg" /> <img src="https://badges.aleen42.com/src/vue.svg" />
-<img src="https://badges.aleen42.com/src/javascript.svg" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&labelColor=grey" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&labelColor=grey" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&labelColor=grey" /> <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&labelColor=grey" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&labelColor=grey" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&labelColor=grey" /> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&labelColor=grey" />
 
 ✨ Backend:
 
-<img src="https://badges.aleen42.com/src/node.svg" /> <img src="https://img.shields.io/badge/-Express-000000?logo=express&labelColor=grey" />
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&labelColor=grey" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&labelColor=grey" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Node-339933?logo=node.js&labelColor=grey" /> <img src="https://img.shields.io/badge/-Express-000000?logo=express&labelColor=grey" />
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&labelColor=grey" /> <img src="https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&labelColor=grey" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&labelColor=grey" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&labelColor=grey" />
 
 👷 DevOps:
 
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&labelColor=grey" /> <img src="https://badges.aleen42.com/src/docker.svg" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&labelColor=grey" />
-<img src="https://badges.aleen42.com/src/gitlab.svg" /> <img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&labelColor=grey" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&labelColor=grey" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&labelColor=grey" />
+<img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&labelColor=grey" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&labelColor=grey" />
 
 ⛓ Blockchain:
 
@@ -53,11 +46,10 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 🛠️ Other tools:
 
-<img src="https://badges.aleen42.com/src/visual_studio_code.svg" /> <img src="https://badges.aleen42.com/src/github.svg" />
-<img src="https://badges.aleen42.com/src/gitlab.svg" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&labelColor=grey" />
-<img src="https://badges.aleen42.com/src/eslint.svg" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&labelColor=grey" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&labelColor=grey" />
+<img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&labelColor=grey" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&labelColor=grey" />
+<img src="https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&labelColor=grey" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&labelColor=grey" /> <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&labelColor=grey" />
 
 ## Let's connect! 🍻
 
