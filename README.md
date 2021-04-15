@@ -54,6 +54,9 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 ## Let's connect! 🍻
 
 <p align="center">
+  <a href="https://github.com/davidivad96">
+    <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/github-logo.png?raw=true" />
+  </a>
   <a href="https://www.linkedin.com/in/david-fern%C3%A1ndez-ortiz-139b7312a/">
     <img width="50" src="https://github.com/davidivad96/davidivad96/blob/main/logos/linkedin-logo.png?raw=true" />
   </a>
