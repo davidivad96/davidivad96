@@ -39,6 +39,7 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&labelColor=grey" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&labelColor=grey" />
 <img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&labelColor=grey" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&labelColor=grey" />
 
 ⛓ Blockchain:
 
