@@ -10,7 +10,7 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 - 🌱 I’m currently learning about the blockchain technology.
 - 💡 I love to explore and learn new technologies.
 - ⭐ My favourite IDE is VSCode.
-- ☀️ In my free time I like to hang out with friends and drink some beer, play the guitar or watch some movie.
+- ☀️ In my free time I like to hang out with friends and drink beer, play the guitar or watch some movie.
 
 ## Tech stack 🧰
 
