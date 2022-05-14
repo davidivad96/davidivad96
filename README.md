@@ -5,6 +5,7 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 ## About me 👨‍💻
 
+- ☁️ I am thrilled about DevOps and Cloud Engineering.
 - 👀 I'm interested in both, frontend and backend development.
 - 🤔 I am also interested in other fields such as data science or video games development.
 - 🌱 I’m currently learning about the blockchain technology.
