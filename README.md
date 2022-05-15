@@ -17,9 +17,15 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 🗣️ Languages:
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&labelColor=grey" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&labelColor=grey" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=grey" /> <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&labelColor=grey" /> <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&labelColor=grey" />
+
+👷 DevOps:
+
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&labelColor=grey" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&labelColor=grey" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&labelColor=grey" />
+<img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&labelColor=grey" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&labelColor=grey" /> <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&labelColor=grey" /> <img src="https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&labelColor=grey" />
 
 🌐 Frontend:
 
@@ -34,13 +40,6 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&labelColor=grey" /> <img src="https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&labelColor=grey" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&labelColor=grey" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&labelColor=grey" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&labelColor=grey" />
-
-👷 DevOps:
-
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&labelColor=grey" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&labelColor=grey" />
-<img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&labelColor=grey" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&labelColor=grey" />
 
 ⛓ Blockchain:
 
