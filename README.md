@@ -1,6 +1,6 @@
 # Hey guys! 👋
 
-My name is David and I'm a Full-stack developer and DevOps engineer passionate about new technologies. I am from Granada, a beautiful city in the south of Spain,
+My name is David and I'm a DevOps Engineer and Full-Stack Developer passionate about new technologies. I am from Granada, a beautiful city in the south of Spain,
 and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 ## About me 👨‍💻
