@@ -47,7 +47,7 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 <p align="center">
   <a href="https://x.com/dfodev">
-    <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/x?raw=true" />
+    <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/x-logo.png?raw=true" />
   </a>
   <a href="https://github.com/davidivad96">
     <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/github-logo.png?raw=true" />
