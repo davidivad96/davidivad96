@@ -5,12 +5,12 @@ and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
 
 ## About me 👨‍💻
 
-- ☁️ I am thrilled full stack development, building products is my passion.
+- ☁️ I am thrilled about full stack development, building products is my passion.
 - 👀 I'm also interested in DevOps and Cloud Engineering.
 - 🌱 I’m currently learning about NextJS.
 - 💡 I love to explore and learn new technologies.
 - ⭐ My favourite IDE is VSCode.
-- ☀️ In my free time I like to hang out with friends and drink beer, play the guitar or watch some movie.
+- ☀️ In my free time I like to hang out with friends and drink beer, play the piano or go running.
 
 ## Tech stack 🧰
 
