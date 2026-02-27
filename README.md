@@ -1,7 +1,7 @@
 # Hey guys! 👋
 
 My name is David and I'm a Full-Stack Developer and DevOps Engineer passionate about new technologies. I am from Granada, a beautiful city in the south of Spain,
-and currently working at <a href="https://strivelabs.io/">Strivelabs</a>.
+and currently working at <a href="https://www.pluxee.es/cobee-by-pluxee/">Cobee by Pluxee</a>.
 
 ## About me 👨‍💻
 
